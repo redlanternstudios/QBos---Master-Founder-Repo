@@ -172,6 +172,7 @@ SightEngine is being extended through a reusable image-intelligence architecture
 
 - [Image Intelligence Master Specification](./docs/IMAGE_INTELLIGENCE_MASTER_SPEC.md)
 - [Reusable Project Onboarding Template](./templates/IMAGE_INTELLIGENCE_PROJECT_TEMPLATE.md)
+- [Claudex Context Handoff](./docs/CLAUDEX_HANDOFF_20261113.md)
 
 Implementation must preserve the existing public API and proceed in reviewed phases. See the master specification for the repository audit, engine contracts, data architecture, API direction, security, acceptance criteria, and Bele Law pilot.
 
