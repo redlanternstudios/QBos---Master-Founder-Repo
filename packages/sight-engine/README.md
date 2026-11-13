@@ -163,3 +163,16 @@ npm run build
 ## License
 
 MIT
+
+## Image Intelligence Extension (Specification)
+
+SightEngine is being extended through a reusable image-intelligence architecture covering discovery, provenance, perception, brand-aware art direction, enhancement, composition, background integration, responsive delivery, visual consistency, authenticity signals, quality assurance, asset management, generation/editing orchestration, performance optimization, visual regression, and creative review.
+
+**Important status distinction:** These documents are the approved design/implementation blueprint. They do not mean all 16 capabilities are implemented in this package. The current package remains the existing visual-quality validation library until each extension is implemented and verified.
+
+- [Image Intelligence Master Specification](./docs/IMAGE_INTELLIGENCE_MASTER_SPEC.md)
+- [Reusable Project Onboarding Template](./templates/IMAGE_INTELLIGENCE_PROJECT_TEMPLATE.md)
+- [Claudex Context Handoff](./docs/CLAUDEX_HANDOFF_20261113.md)
+
+Implementation must preserve the existing public API and proceed in reviewed phases. See the master specification for the repository audit, engine contracts, data architecture, API direction, security, acceptance criteria, and Bele Law pilot.
+
